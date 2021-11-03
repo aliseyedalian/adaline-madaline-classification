@@ -1,3 +1,5 @@
 # adaline-madaline-classification
-# basic-neural-networks
-![alt text](http://url/to/img.png)
+
+![adaline](http://github.com/sedaliSedalian/adaline-madaline-classification/tree/master/images/adaline.png)
+
+![madaline](http://github.com/sedaliSedalian/adaline-madaline-classification/tree/master/images/madaline.png)
