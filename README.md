@@ -1,3 +1,3 @@
 # adaline-madaline-classification
-Basic Artificial Neural networks for data classification
-MRI algorithm is used for madaline classifier
+A simple and old ANN based method for classification... MRI algorithm is used for madaline classifier. It is related to a homework in Neural Network and Deep Learning Course.
+
